@@ -1,0 +1,97 @@
+
+* {
+	box-sizing: border-box;
+	color: #0d1d57;
+}
+
+.pic {
+	display: block;
+	margin: 50px auto;
+}
+
+.lasagna.pic {
+	width: 700px;
+}
+
+.scallops.pic {
+	width: 700px;
+}
+
+.header {
+	height: 84px;
+	margin: -1em -1em 2em -1em;
+}
+
+.bar {
+	height: inherit;
+	text-align: center;
+	background-color: #0d1d57;
+}
+
+.title {
+	padding-top: 20px;
+	display: inline-block;
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+}
+
+#content {
+	margin: 0 100px;
+}
+
+ul.options {
+	padding: 0;
+	margin: 0;
+}
+
+li.options {
+	list-style: none;
+	font-size: 30px;
+	height: 96px;
+	padding: 1em 0;
+	text-align: center;
+	margin: 0em -1em;
+}
+
+li.options:hover {
+	background-color: #0d1d5720;
+}
+
+li.options:first-child {
+	margin: -1em -1em 0em -1em;
+}
+
+a {
+	display: inline-block;
+	width: 100%;
+	text-decoration: none;
+	color: #0d1d57;
+	font-weight: bold;
+}
+
+a.home {
+	background-color: #0d1d57;
+	color: white;
+}
+
+a.home:hover {
+	background-color: white;
+	color: #0d1d57;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 20px;	
+}
+
+ol {
+	font-size: 20px;
+}
+
+ul {
+	font-size: 20px;
+}
